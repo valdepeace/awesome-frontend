@@ -50,7 +50,24 @@ frameworks frontends
 
 * https://storybook.js.org/
 
+# CSS
+* https://github.com/twbs/bootstrap
+* https://github.com/patternfly/patternfly
+* https://github.com/material-components/material-components-web
+* https://github.com/pure-css/pure
+* https://github.com/foundation/foundation-sites
+* https://github.com/jgthms/bulma
+* https://github.com/dhg/Skeleton
+* https://github.com/Dogfalo/materialize
+* https://github.com/bootflat/bootflat.github.io
+# javascript
+*
 # refs
 * https://buttercms.com/blog/javascript-ui-frameworks-libraries-for-2020
 * https://flatlogic.com/blog/ui-javascript-frameworks-and-libraries-for-web-development/
 * https://getflywheel.com/layout/best-javascript-libraries-frameworks-2020/
+* https://opensource.com/article/20/4/open-source-css-frameworks
+* https://medium.com/javascript-scene/javascript-quick-tip-avoid-serial-request-waterfalls-d03c4021d5fa
+* https://www.todojs.com/
+* https://ericelliottjs.com/
+  
