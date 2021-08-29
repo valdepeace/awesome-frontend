@@ -46,6 +46,8 @@ frameworks frontends
 * https://dollarshaveclub.github.io/shave/
 * https://wiredjs.com/showcase.html
 * https://sap.github.io/ui5-webcomponents/
+* https://www.npmjs.com/package/ngx-flag-picker
+* https://www.microsiervos.com/archivo/arte-y-diseno/banderas-mundo-licencia-codigo-abierto.html
 # tools
 
 * https://storybook.js.org/
